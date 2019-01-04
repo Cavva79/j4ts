@@ -6,3 +6,6 @@
 /target/
 /src/main/resources/META-INF/resources/
 /dist/node
+.settings/
+.classpath
+.project
